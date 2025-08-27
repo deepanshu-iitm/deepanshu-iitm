@@ -1,12 +1,13 @@
 # Hi there, I'm Deepanshu Pathak 👋  
 
 ### 🚀 About Me  
-I'm a passionate **full-stack developer** with expertise in building modern, scalable web applications. I love solving problems, optimizing user experiences, and exploring the latest technologies in **Web3** and **blockchain**.  
+I'm a passionate **full-stack developer** and **AI/ML Enthusiast** with expertise in building modern, scalable web applications and intelligent AI solutions. I love solving problems, optimizing user experiences, and exploring the latest technologies in **Artificial Intelligence**.  
 
 ### ⚡ Tech Stack  
 - **Frontend:** React, Next.js, Vue, JavaScript, TypeScript, TailwindCSS  
-- **Backend:** Flask  
-- **Database:** PostgreSQL, MongoDB  
+- **Backend:** Flask, FastAPI
+- **Database:** PostgreSQL, MongoDB
+- **AI/ML:** Python, TensorFlow, PyTorch, Scikit-Learn, LLMs, RAG Pipelines
 - **Other:** HTML, CSS, Git, Docker  
 
 ### 📫 Let's Connect   
