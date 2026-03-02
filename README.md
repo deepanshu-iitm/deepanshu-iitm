@@ -1,15 +1,34 @@
-# Hi there, I'm Deepanshu Pathak 👋  
+<h1 align="center">Deepanshu Pathak</h1>
 
-### 🚀 About Me  
-I'm a passionate **full-stack developer** and **AI/ML Enthusiast** with expertise in building modern, scalable web applications and intelligent AI solutions. I love solving problems, optimizing user experiences, and exploring the latest technologies in **Artificial Intelligence**.  
+<p align="center">
+  <em>Designing scalable architectures and intelligent systems.</em>
+</p>
 
-### ⚡ Tech Stack  
-- **Frontend:** React, Next.js, Vue, JavaScript, TypeScript, TailwindCSS  
-- **Backend:** Flask, FastAPI
-- **Database:** PostgreSQL, MongoDB
-- **AI/ML:** Python, TensorFlow, PyTorch, Scikit-Learn, LLMs, RAG Pipelines
-- **Other:** HTML, CSS, Git, Docker  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,flask,postgres,mongodb,sqlite,sklearn,docker" />
+</p>
 
-### 📫 Let's Connect   
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deepanshu-pathak/)  
-- 🐦 [Twitter](https://x.com/Deepanshu016)  
+---
+
+## About
+
+I’m a full-stack developer focused on backend engineering and applied AI.  
+I build clean, scalable APIs and work on LLM-driven systems, RAG pipelines, and intelligent backend architectures.
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu-iitm&layout=compact&hide_border=true" height="155"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-pathak">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Deepanshu016">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
